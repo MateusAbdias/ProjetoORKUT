@@ -1,0 +1,361 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap');
+
+*{font-family: 'Poppins', sans-serif;}
+
+.comunidade{
+box-sizing: border-box;
+position: absolute;
+width: 769px;
+height: 387px;
+left: 442px;
+top: 253px;
+background: #E6E6E6;
+border: 2px solid #000000;
+border-radius: 5px;
+}
+.comuni{
+position: absolute;
+width: 245px;
+height: 36px;
+left: 0px;
+top: -86px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF;
+}
+.foto {
+box-sizing: border-box;
+position: absolute;
+width: 267px;
+height: 251px;
+left: 54px;
+top: 100px;
+border: 1px solid #959595;
+}
+.borda {
+box-sizing: border-box;
+position: absolute;
+width: 767px;
+height: 79px;
+left: -1px;
+top: -1px;
+border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.comunidade p {
+position: absolute;
+width: 334px;
+height: 216px;
+left: 400px;
+top: 110px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+color: #000000;
+}
+.borda h1 {
+position: absolute;
+width: 142px;
+height: 30px;
+left: 110px;
+top: 10px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+.borda p {
+position: absolute;
+width: 39px;
+height: 18px;
+left: 648px;
+top: 20px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+}
+.icone-proa{
+box-sizing: border-box;
+position: absolute;
+width: 55px;
+height: 55px;
+left: 34px;
+top: 12px;
+background: #E6E6E6;
+border: 2px solid #ED2590;
+border-radius:50%;
+}
+.seta-cima{
+position: absolute;
+width: 8.95px;
+height: 8.62px;
+left: 728.05px;
+top: 37px;
+cursor: pointer;
+}
+.borda-pequena{
+box-sizing: border-box;
+position: absolute;
+width: 769px;
+height: 79px;
+left: -1px;
+top: 410px;
+background: #E6E6E6;
+border: 1px solid #959595;
+border-radius: 5px;
+}
+.seta-baixo{
+position: absolute;
+width: 8px;
+height: 8px;
+left: 727px;
+top: 37px;
+cursor: pointer;
+}
+.lol{
+box-sizing: border-box;
+position: absolute;
+width: 50px;
+height: 50px;
+left: 32px;
+top: 15px;
+background: #E6E6E6;
+border: 2px solid #ED2590;
+border-radius: 50%;
+}
+.borda-pequena h1 {
+position: absolute;
+width: 247px;
+height: 30px;
+left: 105px;
+top: 10px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+.borda-pequena p {
+position: absolute;
+width: 29px;
+height: 18px;
+left: 662px;
+top: 20px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+}
+.pequeno2{
+box-sizing: border-box;
+position: absolute;
+width: 769px;
+height: 79px;
+left: 0px;
+top: 515px;
+background: #E6E6E6;
+border: 1px solid #959595;
+border-radius: 5px;
+}
+.pequeno2 h1 {
+position: absolute;
+width: 142px;
+height: 30px;
+left: 105px;
+top: 10px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+.setasegunda {
+position: absolute;
+width: 8px;
+height: 8px;
+left: 727px;
+top: 35px;
+cursor: pointer;
+}
+.jacquin{
+box-sizing: border-box;
+position: absolute;
+width: 50px;
+height: 50px;
+left: 32px;
+top: 15px;
+background: #E6E6E6;
+border: 2px solid #ED2590;
+border-radius: 50%;
+}
+.pequeno2 p{
+position: absolute;
+width: 29px;
+height: 18px;
+left: 662px;
+top: 20px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+}
+.comuni-js{
+box-sizing: border-box;
+position: absolute;
+width: 769px;
+height: 387px;
+left: 0px;
+top: 630px;
+background: #E6E6E6;
+border: 2px solid #000000;
+border-radius: 5px;
+}
+.comuni-js p{
+position: absolute;
+width: 334px;
+height: 216px;
+left: 413px;
+top: 130px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 18px;
+color: #000000;
+}
+.js-cod {
+box-sizing: border-box;
+position: absolute;
+width: 267px;
+height: 251px;
+left: 54px;
+top: 100px;
+border: 1px solid #959595;
+}
+.borda-js {
+  position: absolute;
+width: 765px;
+height: 79px;
+left: 0px;
+top: 0px;
+border: 1px solid rgba(149, 149, 149, 0.5);
+border-radius: 5px;
+}
+.borda-js h1{
+position: absolute;
+width: 142px;
+height: 30px;
+left: 110px;
+top: 10px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+.borda-js p{
+position: absolute;
+width: 39px;
+height: 18px;
+left: 648px;
+top: 21px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+}
+.icon-js{
+box-sizing: border-box;
+position: absolute;
+width: 55px;
+height: 55px;
+left: 34px;
+top: 12px;
+background: #E6E6E6;
+border: 2px solid #ED2590;
+border-radius:50%;
+}
+.terceiraseta{
+position: absolute;
+width: 8.95px;
+height: 8.62px;
+left: 727.05px;
+top: 37px;
+cursor: pointer;
+}
+.ultborda{
+box-sizing: border-box;
+position: absolute;
+width: 769px;
+height: 79px;
+left: 0px;
+top: 1040px;
+background: #E6E6E6;
+border: 1px solid #959595;
+border-radius: 5px;
+}
+.ultborda h1 {
+position: absolute;
+ width: 142px;
+height: 30px;
+left: 105px;
+top: 10px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #000000;
+}
+.ultborda p {
+position: absolute;
+width: 29px;
+height: 18px;
+left: 662px;
+top: 20px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+color: rgba(0, 0, 0, 0.5);
+}
+.ulticon {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  left: 729px;
+  top: 37px;
+  cursor: pointer;
+}
+.ultimg {
+box-sizing: border-box;
+position: absolute;
+width: 50px;
+height: 50px;
+left: 32px;
+top: 15px;
+border-radius: 50%;
+background: #E6E6E6;
+border: 2px solid #ED2590;
+}
+
+

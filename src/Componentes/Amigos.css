@@ -1,0 +1,28 @@
+.borda{
+    position: absolute;
+    margin-left: 80%;
+    margin-top: 2px;
+    width: 20%;
+    height: 100%;
+    background-color: #2C2C2C;
+    color: #FFFFFF;
+}
+
+.borda h4 {
+    margin-left: 10% ;
+}
+
+.borda ul{
+    margin-top: 10%;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 70px; /* ou 30px */
+    row-gap: 10px;
+}
+
+.borda ul img{
+    border: 2px  solid #ED2590;
+    border-radius: 50%;
+    cursor: pointer;
+}
